@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sprint-4-notes-keeper/static/css/main.707d1cca.css",
+    "main.js": "/sprint-4-notes-keeper/static/js/main.18d76b4d.js",
+    "static/js/787.f6b5d1a3.chunk.js": "/sprint-4-notes-keeper/static/js/787.f6b5d1a3.chunk.js",
+    "index.html": "/sprint-4-notes-keeper/index.html",
+    "main.707d1cca.css.map": "/sprint-4-notes-keeper/static/css/main.707d1cca.css.map",
+    "main.18d76b4d.js.map": "/sprint-4-notes-keeper/static/js/main.18d76b4d.js.map",
+    "787.f6b5d1a3.chunk.js.map": "/sprint-4-notes-keeper/static/js/787.f6b5d1a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707d1cca.css",
+    "static/js/main.18d76b4d.js"
+  ]
+}
